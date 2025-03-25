@@ -1,4 +1,5 @@
 import streamlit as st
 
-st.title("My Streamlit MVP")
-st.write("Hello, this is my first Streamlit MVP Deployment!")
+st.title("PimplBot UI")
+st.components.v1.iframe("https://pimplbot-f6nhxvv0q-vanapalli-vasanti-lakshmis-projects.vercel.app", height=600)
+
